@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1599668528 source:c:\users\nadhir\desktop\tpchiffrementaudio\tpchiffrementaudio\src\waveaudio.cpp
+	"WaveAudio.h"
+
+1599668571 c:\users\nadhir\desktop\tpchiffrementaudio\tpchiffrementaudio\include\waveaudio.h
+	<fstream>
+	<string.h>
+
+1599668633 source:c:\users\nadhir\desktop\tpchiffrementaudio\tpchiffrementaudio\src\compressionmp3.cpp
+	"CompressionMP3.h"
+	"WaveAudio.h"
+	"lame.h"
+
+1599668029 c:\users\nadhir\desktop\tpchiffrementaudio\tpchiffrementaudio\include\compressionmp3.h
+
+1504726415 c:\users\nadhir\desktop\tpchiffrementaudio\tpchiffrementaudio\lame\lame.h
+	<stddef.h>
+	<stdarg.h>
+	<stdio.h>
+
